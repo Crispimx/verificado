@@ -1,2 +1,0 @@
-# verificado
-["mr.crispim"]
